@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\bin\Debug\Área_retângulo.exe.config
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\bin\Debug\Área_retângulo.exe
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\bin\Debug\Área_retângulo.pdb
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\obj\Debug\Área_retângulo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\obj\Debug\Área_retângulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\obj\Debug\Área_retângulo.exe
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\obj\Debug\Área_retângulo.pdb
+C:\Users\aluno\source\repos\Área_retângulo\Área_retângulo\obj\Debug\Área_retângulo.exe.config
