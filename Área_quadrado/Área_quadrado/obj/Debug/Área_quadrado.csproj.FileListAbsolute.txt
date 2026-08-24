@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\obj\Debug\Área_quadrado.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\obj\Debug\Área_quadrado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\bin\Debug\Área_quadrado.exe.config
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\bin\Debug\Área_quadrado.exe
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\bin\Debug\Área_quadrado.pdb
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\obj\Debug\Área_quadrado.exe
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\obj\Debug\Área_quadrado.pdb
+C:\Users\aluno\source\repos\Área_quadrado\Área_quadrado\obj\Debug\Área_quadrado.exe.config
