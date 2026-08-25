@@ -1,0 +1,2 @@
+C:\Users\aluno\source\repos\Diagonal_quadrado\Diagonal_quadrado\obj\Debug\Diagonal_quadrado.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Diagonal_quadrado\Diagonal_quadrado\obj\Debug\Diagonal_quadrado.csproj.CoreCompileInputs.cache
