@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\bin\Debug\Conversos_km_milhas.exe.config
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\bin\Debug\Conversos_km_milhas.exe
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\bin\Debug\Conversos_km_milhas.pdb
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\obj\Debug\Conversos_km_milhas.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\obj\Debug\Conversos_km_milhas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\obj\Debug\Conversos_km_milhas.exe
+C:\Users\aluno\source\repos\Conversos_km_milhas\Conversos_km_milhas\obj\Debug\Conversos_km_milhas.pdb
