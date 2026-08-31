@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Área_quadrado
+namespace ConsoleApp2
 {
     internal class Área
     {
@@ -17,29 +17,23 @@ namespace Área_quadrado
             this.resultado = 0;
         }
 
-        public Área(int aresta, int resultado)
-        {
-            this.aresta = aresta;
-            this.resultado = 0;
-        }
-
         public void SetAresta(int aresta)
-        { 
+        {
             this.aresta = aresta;
         }
-        public int GetAresta() 
+        public int GetAresta()
         {
-            return this.aresta;        
+            return this.aresta;
         }
 
-        public int GetResultado() 
+        public int GetResultado()
         {
             return resultado;
         }
 
         public void Calcular()
         {
-            this.resultado = this.aresta * this.aresta;     
+            this.resultado = this.aresta * this.aresta;
         }
     }
 }
