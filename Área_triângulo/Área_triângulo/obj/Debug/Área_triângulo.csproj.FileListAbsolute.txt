@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\bin\Debug\Área_triângulo.exe.config
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\bin\Debug\Área_triângulo.exe
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\bin\Debug\Área_triângulo.pdb
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\obj\Debug\Área_triângulo.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\obj\Debug\Área_triângulo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\obj\Debug\Área_triângulo.exe
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\obj\Debug\Área_triângulo.pdb
+C:\Users\aluno\source\repos\Área_triângulo\Área_triângulo\obj\Debug\Área_triângulo.exe.config
