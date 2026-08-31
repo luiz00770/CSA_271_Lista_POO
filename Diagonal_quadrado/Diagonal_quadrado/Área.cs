@@ -17,12 +17,6 @@ namespace Diagonal_quadrado
             this.resultado = 0;
         }
 
-        public Área(double diag, double resultado)
-        {
-            this.diag = diag;
-            this.resultado = 0;
-        }
-
         public void SetDiag(double diag)
         {
             this.diag = diag;
