@@ -32,7 +32,7 @@ namespace Conversos_km_milhas
             return this.resultado;
         }
 
-        public void Calcular()
+        public void Converter()
         {
             this.resultado = this.milhas*1.852;
         }
