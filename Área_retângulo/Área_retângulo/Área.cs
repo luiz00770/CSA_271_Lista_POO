@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Área_retângulo
+namespace ConsoleApp2
 {
     internal class Área
     {
@@ -12,18 +12,12 @@ namespace Área_retângulo
         private int altura;
         private int resultado;
 
+
         public Área()
-        { 
+        {
             this.baze = 0;
             this.altura = 0;
             this.resultado = 0;
-        }
-        public Área(int baze, int altura)
-        {
-            this.baze = baze;
-            this.altura = altura;
-            this.resultado = 0;
-
         }
 
         public void setbase(int baze)
@@ -41,7 +35,7 @@ namespace Área_retângulo
         public int getaltura()
         {
             return this.altura;
-                
+
         }
         public int getresultado()
         {
@@ -54,6 +48,5 @@ namespace Área_retângulo
             this.resultado = this.baze * this.altura;
 
         }
-
     }
 }
