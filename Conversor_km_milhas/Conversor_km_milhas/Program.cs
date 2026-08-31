@@ -14,7 +14,7 @@ namespace Conversos_km_milhas
 
             valor.setmilhas(Msg("Digite a distância em milhas: "));
 
-            valor.Calcular();
+            valor.Converter();
                 Console.WriteLine("O valor em quilômetros dessa distância é de: {0}km",
                     valor.getresultado());
 
