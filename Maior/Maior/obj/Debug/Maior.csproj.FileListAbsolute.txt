@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Maior\Maior\bin\Debug\Maior.exe.config
+C:\Users\aluno\source\repos\Maior\Maior\bin\Debug\Maior.exe
+C:\Users\aluno\source\repos\Maior\Maior\bin\Debug\Maior.pdb
+C:\Users\aluno\source\repos\Maior\Maior\obj\Debug\Maior.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Maior\Maior\obj\Debug\Maior.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Maior\Maior\obj\Debug\Maior.exe
+C:\Users\aluno\source\repos\Maior\Maior\obj\Debug\Maior.pdb
+C:\Users\aluno\source\repos\Maior\Maior\obj\Debug\Maior.exe.config
