@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\bin\Debug\Maior_ou_idênticos.exe.config
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\bin\Debug\Maior_ou_idênticos.exe
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\bin\Debug\Maior_ou_idênticos.pdb
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\obj\Debug\Maior_ou_idênticos.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\obj\Debug\Maior_ou_idênticos.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\obj\Debug\Maior_ou_idênticos.exe
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\obj\Debug\Maior_ou_idênticos.pdb
+C:\Users\aluno\source\repos\Maior_ou_idênticos\Maior_ou_idênticos\obj\Debug\Maior_ou_idênticos.exe.config
