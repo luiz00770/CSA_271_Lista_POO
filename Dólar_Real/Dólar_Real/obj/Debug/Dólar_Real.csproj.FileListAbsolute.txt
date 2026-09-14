@@ -1,0 +1,7 @@
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\obj\Debug\Dólar_Real.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\obj\Debug\Dólar_Real.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\bin\Debug\Dólar_Real.exe.config
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\bin\Debug\Dólar_Real.exe
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\bin\Debug\Dólar_Real.pdb
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\obj\Debug\Dólar_Real.exe
+C:\Users\aluno\source\repos\Dólar_Real\Dólar_Real\obj\Debug\Dólar_Real.pdb
